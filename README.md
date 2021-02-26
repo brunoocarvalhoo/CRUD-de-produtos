@@ -2,7 +2,8 @@
 
 <h3>Requisitos:</h3>
 
-1- Baixar ruby 2.7.2
+1- Baixar ruby 2.7.2: <br>
+https://www.ruby-lang.org/pt/downloads/
 
 <h3>Instalação:</h3>
 
