@@ -16,7 +16,7 @@
         <td><%= departamento.nome %></td>
         <td><%= link_to 'Visualizar', departamento, class: "btn btn-default" %></td>
         <td><%= link_to 'Editar', edit_departamento_path(departamento), class: "btn btn-default" %></td>
-        <td><%= link_to 'Remover', departamento, method: :delete, data: { confirm: 'Você tem certeza?' }, class: "btn btn-default"%></td>
+        <td><%= link_to 'Remover', departamento, method: :delete, data: { confirm: 'Você tem certeza?' }, class: "btn btn-danger"%></td>
       </tr>
     <% end %>
   </tbody>
