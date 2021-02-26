@@ -1,24 +1,17 @@
-# README
+<h1>Loja</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h3>Requisitos:</h3>
 
-Things you may want to cover:
+1- Baixar ruby 2.7.2
 
-* Ruby version
+<h3>Instalação:</h3>
 
-* System dependencies
+1- Clonar o repositório do projeto
 
-* Configuration
+2- Rodar o comando `bundle install` no repositório do projeto
 
-* Database creation
+3- Rodar o comando `rake db:migrate`
 
-* Database initialization
+<h3>Acesso:</h3>
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1- Acesso via localhost:3000 no browser
